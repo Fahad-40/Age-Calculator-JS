@@ -1,0 +1,97 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+body {
+    background: linear-gradient(135deg, #FFE9D6, #FFD3B6);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 380px;
+    padding: 30px;
+    background: #ffffff;
+    border-radius: 18px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+    text-align: center;
+    border: 1px solid #f5c7a6;
+}
+
+h1 {
+    margin-bottom: 25px;
+    font-size: 28px;
+    color: #1e2a38; 
+    font-weight: 700;
+}
+
+span {
+    font-size: 14px;
+    color: #3b4754;
+    font-weight: 500;
+}
+
+.enterDate, 
+.currentDate {
+    width: 100%;
+    text-align: left;
+    margin-bottom: 20px;
+}
+
+input[type="date"] {
+    width: 100%;
+    padding: 12px;
+    margin-top: 8px;
+    border-radius: 10px;
+    border: 1px solid #e0c5b3;
+    background: #fff6f0;
+    font-size: 15px;
+    outline: none;
+    transition: 0.25s ease;
+}
+
+input[type="date"]:focus {
+    border-color: #ff8f5b;
+    box-shadow: 0 0 0 3px rgba(255, 143, 91, 0.3);
+}
+
+.getAge {
+    width: 100%;
+    padding: 14px;
+    background: #ff8f5b; 
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    border: none;
+    border-radius: 12px;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.getAge:hover {
+    background: #e57748;
+    transform: translateY(-2px);
+}
+
+.getAge:active {
+    transform: scale(0.97);
+}
+
+.displayAge {
+    margin-top: 20px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #1e2a38;
+}
