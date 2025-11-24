@@ -1,4 +1,4 @@
-# Age Calculator (HTML, CSS, JavaScript)
+# Age Calculator
 
 A clean and modern Age Calculator built using **Vanilla JavaScript**, **HTML**, and **CSS**.  
 This app lets you enter your **Date of Birth** and **Current Date**, and it instantly calculates your age with accurate year difference.
