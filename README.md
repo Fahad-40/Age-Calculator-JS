@@ -38,3 +38,10 @@ Aap is project ko behtar banane ke liye neeche diye gaye areas me contribute kar
 
 1. **Fork** this repository  
 2. **Create** a new branch  
+3. **Make** your changes  
+4. **Commit** and **push** the code  
+5. **Open a Pull Request**  
+6. I will review your contribution and merge it! 🚀  
+
+Aapka contribution is project ko aur behtar banayega — Thank you! 🙌
+
