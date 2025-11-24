@@ -14,3 +14,10 @@ This app lets you enter your **Date of Birth** and **Current Date**, and it inst
 - 🧮 Accurate age calculation logic (year + month handling)
 
 ---
+## 🛠️ Technologies Used
+
+- **HTML5**
+- **CSS3 (Modern UI Design)**
+- **JavaScript (Vanilla JS)**
+
+---
