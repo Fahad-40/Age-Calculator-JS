@@ -21,3 +21,20 @@ This app lets you enter your **Date of Birth** and **Current Date**, and it inst
 - **JavaScript (Vanilla JS)**
 
 ---
+## 🤝 Your Contribution
+
+Contributions are always welcome!  
+Aap is project ko behtar banane ke liye neeche diye gaye areas me contribute kar sakte hain:
+
+### 🔧 Possible Improvements
+- 🎨 UI/UX enhancements  
+- ⚠️ Better error handling  
+- 📅 Leap year accurate age calculation  
+- 🌗 Add Dark/Light mode  
+- 📱 Responsive design improvements  
+- ⚡ Code optimization  
+
+### 📝 How to Contribute
+
+1. **Fork** this repository  
+2. **Create** a new branch  
