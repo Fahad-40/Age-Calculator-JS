@@ -14,8 +14,7 @@ function getDob() {
         age--;
     }
 
-    let display = document.querySelector(".displayAge");
-    display.textContent = `Your age is ${age} years.`;
+
 
 
 }
